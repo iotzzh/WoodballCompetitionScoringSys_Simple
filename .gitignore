@@ -1,0 +1,5 @@
+WoodballCompetitionScoringSys/bin/
+WoodballCompetitionScoringSys/obj/
+WoodballCompetitionScoringSys/packages/EntityFramework.6.3.0/build/EntityFramework.targets
+WoodballCompetitionScoringSys/packages/EntityFramework.6.3.0/buildTransitive/EntityFramework.props
+WoodballCompetitionScoringSys/packages/
